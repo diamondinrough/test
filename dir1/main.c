@@ -4,7 +4,7 @@ int main()
 {
     int i;
 
-    i = 10;
+    i = 5;
     fprintf(stdout, "i = %d\n", i);
     return 0;
 }
